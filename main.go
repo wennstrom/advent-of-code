@@ -1,12 +1,13 @@
 package main
 
 import (
-	dayone "github.com/wennstrom/advent-of-code/day-one"
-	daytwo "github.com/wennstrom/advent-of-code/day-two"
+	daythree "github.com/wennstrom/advent-of-code/day-three"
 )
 
 func main() {
-	dayone.PartOne()
-	dayone.PartTwo()
-	daytwo.PartOne()
+	//dayone.PartOne()
+	//dayone.PartTwo()
+	//daytwo.PartOne()
+	//daythree.PartOne()
+	daythree.PartTwo()
 }
